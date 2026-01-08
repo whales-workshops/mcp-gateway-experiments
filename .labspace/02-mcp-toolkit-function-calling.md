@@ -64,7 +64,7 @@ docker compose up --build --no-log-prefix
 
 ## Stop the demo
 
-In another terminal:
+**Open another terminal**:
 ```bash
 cd 02-mcp-toolkit-mcp-gateway-with-ai-agent
 docker compose down

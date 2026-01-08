@@ -1,0 +1,204 @@
+[
+  {
+    "name": "Tesco Superstore",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "address": "Nákupní 389/3, Praha 5, 150 00",
+    "website": "https://tesco.cz",
+    "phone": "+420 800 222 555"
+  },
+  {
+    "name": "Tesco Hipermarket",
+    "city": "Budapest",
+    "country": "Hungary",
+    "address": "Fáy utca 2/B, Budapest 1139",
+    "website": "https://tesco.hu",
+    "phone": "+36 1 800 2222"
+  },
+  {
+    "name": "Tesco Supermarket",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "address": "Kamenné námestie 1, 811 08 Bratislava",
+    "website": "https://tesco.sk",
+    "phone": "+421 2 800 222 55"
+  },
+  {
+    "name": "Tesco Express Oxford St Express",
+    "city": "London",
+    "country": "United Kingdom",
+    "address": "238 Oxford St, W1C 1DE",
+    "website": "https://www.tesco.com/store-locator/london/238-oxford-st",
+    "phone": "Check store page for phone"
+  },
+
+
+  {
+    "name": "Tesco Express Shoreditch Commercial St Express",
+    "city": "London",
+    "country": "United Kingdom",
+    "address": "116-118 Commercial St, E1 6NF",
+    "website": "https://www.tesco.com/store-locator/london/116-118-commercial-st",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Superstore Clapham Superstore",
+    "city": "London",
+    "country": "United Kingdom",
+    "address": "128 Clapham Common South Side, SW4 9DF",
+    "website": "https://www.tesco.com/store-locator/london/128-clapham-common-south-side",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Extra Beckton Extra Gallions Reach",
+    "city": "London",
+    "country": "United Kingdom",
+    "address": "Gallions Reach, E6 7ER (Example postcode)",
+    "website": "https://www.tesco.com/store-locator/london/gallions-reach",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Superstore Yorkgate Centre Superstore",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "address": "100-150 York St, BT15 1WA",
+    "website": "https://www.tesco.com/store-locator/belfast/100-150-york-st",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Express Ormeau Rd Belfast Express",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "address": "307-317 Ormeau Rd, BT7 3GL",
+    "website": "https://www.tesco.com/store-locator/belfast/307-317-ormeau-rd",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Express Edinburgh Leith Walk Express",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "address": "112-114 Leith Walk, EH6 5DT (Example address)",
+    "website": "https://www.tesco.com/store-locator/edinburgh/112-114-leith-walk",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Superstore Cardiff Excelsior Road Superstore",
+    "city": "Cardiff",
+    "country": "United Kingdom",
+    "address": "Excelsior Road, CF14 3AT (Example address)",
+    "website": "https://www.tesco.com/store-locator/cardiff/excelsior-road",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Express Crumlin Express",
+    "city": "Dublin",
+    "country": "Ireland",
+    "address": "10-10a Saint Agnes Road, D12 F516",
+    "website": "https://www.tesco.ie/store-locator/dublin/10-10a-saint-agnes-road",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Superstore Terenure Metro",
+    "city": "Dublin",
+    "country": "Ireland",
+    "address": "24 Terenure Road, D6W Y620",
+    "website": "https://www.tesco.ie/store-locator/dublin/24-terenure-road",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Superstore Mahon Point Superstore",
+    "city": "Cork",
+    "country": "Ireland",
+    "address": "Mahon Point Shopping Centre, T12 RKE3",
+    "website": "https://www.tesco.ie/store-locator/cork/mahon-point-shopping-centre",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Superstore Galway SC",
+    "city": "Galway",
+    "country": "Ireland",
+    "address": "Galway Shopping Centre, H91 E778",
+    "website": "https://www.tesco.ie/store-locator/galway/galway-shopping-centre",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Express Quay St Express",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "address": "2, Oversea House 11 Quay St, M3 3BB",
+    "website": "https://www.tesco.com/store-locator/manchester/11-quay-st",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Extra Stretford Extra",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "address": "M32 0QT (Example postcode)",
+    "website": "https://www.tesco.com/store-locator/manchester/stretford",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Superstore Liverpool Old Swan Superstore",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "address": "2 St. Oswalds Street, L13 2BY",
+    "website": "https://www.tesco.com/store-locator/liverpool/2-st-oswalds-street",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Express Liverpool Dale St Express",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "address": "57-63 Dale St, L2 2HJ",
+    "website": "https://www.tesco.com/store-locator/liverpool/57-63-dale-st",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Extra Leeds Seacroft Extra",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "address": "5 Seacroft Avenue, LS14 6JD",
+    "website": "https://www.tesco.com/store-locator/leeds/5-seacroft-avenue",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Express St Pauls St Leeds Express",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "address": "15 St Pauls St, LS1 2JG",
+    "website": "https://www.tesco.com/store-locator/leeds/15-st-pauls-st",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Extra Nottingham Top Valley Extra",
+    "city": "Nottingham",
+    "country": "United Kingdom",
+    "address": "Top Valley Way, NG5 9DD",
+    "website": "https://www.tesco.com/store-locator/nottingham/top-valley-way",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Superstore Carlton Superstore",
+    "city": "Nottingham",
+    "country": "United Kingdom",
+    "address": "2 Carlton Hill, NG4 1EB",
+    "website": "https://www.tesco.com/store-locator/nottingham/2-carlton-hill",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Express Birmingham Hockley Express",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "address": "10 Hall St, B18 6BB",
+    "website": "https://www.tesco.com/store-locator/birmingham/10-hall-st",
+    "phone": "Check store page for phone"
+  },
+  {
+    "name": "Tesco Extra Yardley Extra",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "address": "Swan Shopping Centre, B25 8EL (Example postcode)",
+    "website": "https://www.tesco.com/store-locator/birmingham/swan-shopping-centre",
+    "phone": "Check store page for phone"
+  }
+]

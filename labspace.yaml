@@ -4,8 +4,10 @@ description: |
 
 sections:
   - title: Introduction
-    contentPath: .labspace/01-introduction.md
-  - title: Main Content 1
-    contentPath: .labspace/02-main-content.md
-  - title: Conclusion
-    contentPath: .labspace/03-conclusion.md
+    contentPath: .labspace/00-introduction.md
+  - title: MCP Toolkit + MCP Gateway
+    contentPath: .labspace/01-mcp-toolkit.md
+  - title: MCP Toolkit + Function Calling
+    contentPath: .labspace/02-mcp-toolkit-function-calling.md    
+  - title: MCP Gateway with Catalog and Docker CE
+    contentPath: .labspace/03-docker-ce-mcp-gateway-catalog.md

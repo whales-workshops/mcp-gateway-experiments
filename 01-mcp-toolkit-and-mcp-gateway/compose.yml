@@ -1,0 +1,43 @@
+services:
+  mcp-client:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - MCP_HOST=http://mcp-gateway:9011/mcp      
+    depends_on:
+      mcp-gateway:
+        condition: service_healthy   
+  
+  mcp-gateway:
+    labels:
+      local.service: mcp-gateway
+    image: docker/mcp-gateway:latest
+    command:
+      - --port=9011
+      - --transport=streaming
+      - --servers=duckduckgo
+      - --verbose
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:9011/health"]
+      interval: 2s
+      timeout: 3s
+      retries: 10
+      start_period: 5s    
+
+  # Stop the MCP Gateway once the `mcp-client` completed
+  # stop-gateway:
+  #   image: docker:cli
+  #   volumes:
+  #     - /var/run/docker.sock:/var/run/docker.sock
+  #   command:
+  #     - /bin/sh
+  #     - -c
+  #     - |
+  #       docker stop $(docker ps -q --filter "label=local.service=mcp-gateway")
+  #   depends_on:
+  #     mcp-client:
+  #       condition: service_completed_successfully       

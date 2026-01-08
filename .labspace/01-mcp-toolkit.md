@@ -40,6 +40,7 @@ docker compose up --build --no-log-prefix
 
 ## Stop the demo
 
+**Open another terminal**:
 ```bash
 cd 01-mcp-toolkit-and-mcp-gateway
 docker compose down

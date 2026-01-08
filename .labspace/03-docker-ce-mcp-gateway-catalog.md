@@ -1,4 +1,4 @@
-# Docker CE, MCP Gateway with `catalog.yaml` and 2 MCP Servers
+# Docker CE, MCP Gateway with `catalog.yaml` and 2 MCP Servers with **Inspector**
 
 ## Demo
 
@@ -98,8 +98,38 @@ Use the following settings to connect to the gateway:
 
 You should see the tools from both the RAG server and the Tesco server listed together.
 
+## How to use the demo
+
+Start the demo and copy from the terminal the URL with the authentication token (something like `http://0.0.0.0:6274/?MCP_PROXY_AUTH_TOKEN=5233220b04ff5486c08b186dae0edfd226dd75e25502068e2bde25072fa86aa6`)
+
+![connect-to-inspector](.labspace/assets/01-link.png)
+
+Then paste the link into a browser to connect to **Inspector**:
+
+![connect-to-inspector](.labspace/assets/02-inspector-connect.png)
+
+Once connected you will get several choices to use the MCP Server (here the MCP Gateway), so click on **Tools**:
+
+![connect-to-inspector](.labspace/assets/03-inspector-dashboard.png)
+
+Then click on **List Tools**:
+
+![connect-to-inspector](.labspace/assets/04-inspector-tools.png)
+
+Then you will get the list of the availables tools (exposed by the MCP Gateway):
+
+![connect-to-inspector](.labspace/assets/05-get-mcp-tools.png)
+
+And start playing 🚀 with the tools:
+
+![connect-to-inspector](.labspace/assets/06-use-tools.png)
+
+![connect-to-inspector](.labspace/assets/07-use-tools.png)
+
+
 ## Stop the demo
 
+**Open another terminal**:
 ```bash
 cd 03-docker-ce-mcp-gateway-with-catalog
 docker compose down

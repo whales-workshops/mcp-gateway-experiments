@@ -1,14 +1,22 @@
-# Introduction
+<style>
+        h1 {
+            color: blue;
+            font-family: Arial, sans-serif; /* Optionnel : pour une police plus moderne */
+            font-size: 40px;
+        }
+        h2 {
+            color: red;
+            font-family: Arial, sans-serif; /* Optionnel : pour une police plus moderne */
+        }        
+</style>
 
-👋 Welcome to the **Labspace starter** lab! During this lab, you will learn to do the following:
+# Using the Docker MCP Gateway
 
-- Learning Objective 1
-- Learning Objective 2
-- Learning Objective 3
-- Learning Objective 4
+👋 Welcome.
 
+## About this Labspace
 
-## 🙋 What is a Labspace again?
+> 🚧 This is a Work In Progress
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacinia nisi sit amet auctor accumsan. Maecenas suscipit, libero quis ullamcorper pulvinar, dolor nisl vehicula orci, vel egestas arcu nibh eget enim. 
 
