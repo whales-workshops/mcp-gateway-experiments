@@ -5,7 +5,7 @@ services:
 
   workspace:
    # Override the default image if desired
-    image: philippecharriere494/labspace-workspace-golang:1.25.5_0.0.0
+    image: philippecharriere494/labspace-workspace-golang:1.25.5_0.0.1
 
     # models:
     #   cook-model:
